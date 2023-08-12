@@ -20,4 +20,6 @@ yolov8-segmentation
 ### 데이터 전처리  
 1. RLE인코딩된 데이터 -> mask  
 2. mask -> polygon
+![슬라이드1](https://github.com/Blusooyeon/swAI2023/assets/122274660/d9aa6e99-4d80-4f7e-bdee-2927d494fd25)
+
 3. train,valid dataset 이미지 증강
